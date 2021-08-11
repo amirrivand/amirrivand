@@ -5,5 +5,5 @@
 # Portfolio
 - Hattolighting Website. FullStack Project.
   Technology:  NextJs - CSS Framework: Rebass - View here : https://hattolighting.com https://hattolighting.ir
-- NahiraTech Co. Entrance project using ReactJs library.
+- NahiraTech Co. Entrance project in ReactJs.
   Preview here : https://darmanito.vercel.app
